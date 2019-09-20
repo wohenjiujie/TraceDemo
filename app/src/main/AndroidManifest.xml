@@ -34,7 +34,7 @@
 
         <meta-data
                 android:name="com.baidu.lbsapi.API_KEY"
-                android:value="开发者申请的Android端AK"/>
+                android:value="38VDHuYr5d35WjnxXtfFpP13tk2cyAFB"/>
 
         <meta-data android:name="android.max_aspect"
             android:value="2.1"/>
