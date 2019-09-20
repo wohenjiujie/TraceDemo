@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/invo/CodeProject/MyGitHub/TraceDemo/app/libs/BaiduTraceSDK_v3_1_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="36f7b5b4fb80bb0451732f4d925fa6d2100e46f0">
+        <dex dex="/Users/invo/CodeProject/MyGitHub/TraceDemo/app/build/intermediates/pre-dexed/debug/BaiduTraceSDK_v3_1_2_73457017100dc6c8d71b5dd2910db6a1f2c02c09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/invo/CodeProject/MyGitHub/TraceDemo/app/libs/okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/Users/invo/CodeProject/MyGitHub/TraceDemo/app/build/intermediates/pre-dexed/debug/okhttp-3.8.1_756c87b3786c33f6c312aea7a9d4eb8cd9e8a49d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/invo/CodeProject/MyGitHub/TraceDemo/app/libs/BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b2fb6066eae3f1d8fcb2149ee3de54dbf98b3ab">
+        <dex dex="/Users/invo/CodeProject/MyGitHub/TraceDemo/app/build/intermediates/pre-dexed/debug/BaiduLBS_Android_4f2a204c18974ee922f3acc9c8dda2eae8d86f5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/invo/CodeProject/MyGitHub/TraceDemo/app/libs/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/invo/CodeProject/MyGitHub/TraceDemo/app/build/intermediates/pre-dexed/debug/okio-1.13.0_0f7f59986f67c5c8ce33cdb6bb5dec850f4b1ac2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/invo/CodeProject/MyGitHub/TraceDemo/app/libs/bos-android-sdk-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e746cc22bdf9e4a037d103d06b2c01dfb02d07f">
+        <dex dex="/Users/invo/CodeProject/MyGitHub/TraceDemo/app/build/intermediates/pre-dexed/debug/bos-android-sdk-1.0.3_547782c4b785a7404f435de0b1ebbef42c10770a.jar" />
+    </item>
+
+</items>
